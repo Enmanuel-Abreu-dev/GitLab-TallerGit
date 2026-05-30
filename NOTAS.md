@@ -7,4 +7,4 @@
 - git commit crea un snapshot
 - git diff muestra cambios no preparados
 - git diff --staged muestra cambios preparados
-- Otros Cambios
+- Otros Cambios, otras configuraciones
